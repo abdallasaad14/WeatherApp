@@ -1,0 +1,25 @@
+
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+i
+9app/src/main/java/com/example/forecastapp/MainActivity.kt,f\9\f9fbccf58cdc5d2acd7936e97921b3d76969bac5
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+i
+9app/src/main/java/com/example/forecastapp/MainFragment.kt,c\7\c78075b09b4d91a680f11752034bfd4c744d6b12
+j
+:app/src/main/java/com/example/forecastapp/ItemDataClass.kt,5\d\5de75c6dbbd627f462f3096cf8ea0a605290b64e
+o
+?app/src/main/java/com/example/forecastapp/MainScreenFragment.kt,f\d\fdb955c31a29f45dd833c2badb6ef57217bbdd13
+h
+8app/src/main/java/com/example/forecastapp/CityAdapter.kt,3\e\3e575aa03f473a7445e4aa2ebe8e9312b4b9333e
